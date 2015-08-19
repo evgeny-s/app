@@ -1,5 +1,7 @@
 {
     "name": "evgeny-s/app",
+    "license": "MIT",
+    "type": "project",
     "description": "This is a test application",
     "authors": [
         {
